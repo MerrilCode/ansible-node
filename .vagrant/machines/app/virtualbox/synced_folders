@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"/Users/merrilmathew/Google Drive/devops/ansible-tut/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/merrilmathew/Google Drive/devops/ansible-tut","disabled":false,"__vagrantfile":true}}}
